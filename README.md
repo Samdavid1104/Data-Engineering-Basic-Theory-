@@ -1,0 +1,2 @@
+# DE---Assignment-1
+This repository contains my Data Engineering theory assignment. It includes notes and concepts related to SDLC, Agile Methodology, Waterfall Model, JIRA , CI/CD,  and Jenkins topics covered during my training. 
