@@ -1,0 +1,46 @@
+1.What is SDLC? 
+
+ANS: SDLC (Software Development Life Cycle) is an organized step by step process it's used to develop software .It helps team to plan,design,build,test and maintain software . 
+There are seven main stages in SDLC: 
+Planning , requirement analysis,design, development,testing , deployment and maintaining. 
+
+ 
+2.What is Agile ? Also Explain why we prefer Agile over Waterfall  
+
+ANS: Agile methodology is an set of practice to develop software ,that embraces changes ,deliver values incrementally ,it put people and collaboration at centre of every decision. 
+Water Methodology is an sequential method ,changes are very difficult. Customer / client see the product at very end stage it leads to deliver the product nobody wanted .But ,in agile we change the things at any stage it helps reduces the cost and risk of buliding the wrong product . 
+
+ 
+
+3.Important components of JIRA 
+ANS: Jira consists of Projects, Issues (Story, Task, Bug, Epic, Sub-task), Workflows, Sprints, Backlogs, Boards, Assignees, Reporters, and Dashboards. These components help teams plan, track, and manage software development work efficiently." 
+
+ 
+
+4.What is CI/CD? 
+
+ANS: CI(Continuous Integration)  developers used regularly integrated their code (0n-prem)into a central repository,where automated testing is performed . 
+CD(Continuous Deployment/Delivery) It will moves central repository to server using one of this method. 
+Delivery-  When the code file is ready for release ,but deployment need manual approval . 
+Deployment -When the code file is ready for release, deployment will automatically done . 
+
+ 
+
+5.What is Git and GitHub? 
+
+ANS: Git is an software installed in system .It will tracks every change of file so you can see who changed what and when .It works in online don't need network connection .Multiple teams works on the same codebase without overwriting each other and also safe experimentaton space . 
+GitHub- Github is a cloud platform that host git repository online.It needs network connection.Our local repo is mirror online so even safe if we lost lap .Track,bugs and tasks and review code change before they merge. 
+
+ 
+
+6.What is Jenkins ? 
+
+ANS: Jenkins ia a tool for source automation server .It is written in Java ,first released in 2011.Automates the relative proceess of software ,delivery ,build ,test and deploy.Watches Git and got hub repo and trigger a pipeline whenever code changes. 
+
+ 
+
+ 
+
+ 
+
+ 
